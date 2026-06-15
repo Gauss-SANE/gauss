@@ -1,1 +1,1 @@
-print("AIMS SENEGAL")
+print("Les programmeurs de AIMS SENEGAL")
